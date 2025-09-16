@@ -2,7 +2,7 @@
 
 🚀 A simple web app built with **Streamlit** and **Hugging Face Transformers** that performs **sentiment analysis** (Positive / Neutral / Negative) on any text input.  
 
-🔗 **Live Demo:** [Click here to try the app](https://sentiment-app-qunn77exinhz8qtkfz2kbs.streamlit.app/)
+🔗 **Live Demo:** [Click here to try the app](https://sentiment-app-qunn77exinzh8qtkfz2kbs.streamlit.app/)
 
 ---
 
